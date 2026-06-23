@@ -11,11 +11,11 @@
 ###
 - 🔭 I’m currently working on **Backend**
   
-- 🌱 I’m currently learning **Spring Boot, Spring AI**
+- 🌱 I’m currently learning **Python,Artificial intelligence,Machine learning**
 
-- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
+- 💬 Ask me about **python,Data Structure,AI,ML,SQL**  
 
-- 📫 How to reach me **abhinendrayadav3@gmail.com**
+- 📫 How to reach me **tambolialtaf928@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
